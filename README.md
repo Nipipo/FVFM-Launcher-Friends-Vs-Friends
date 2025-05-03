@@ -10,19 +10,17 @@
 
 ## **Features**  
 - 🎯 **Easy mod installation and management**  
-- 🔄 **Automatic updates** for mods and the GDWeave mod loader  
 - 🛠️ **User-friendly interface** for enabling/disabling mods  
 - ⚙️ **Mod configuration editing**  
 - 📦 **Import custom mods** from ZIP files
-- 🔍 **Search functionality** for available and installed mods  
+- 🔍 **Search functionality** for installed mods  
 - 📝 **Detailed mod information display**  
 - ⚡ **One-click setup** for game directory and required components  
-- 🚫 **NO MORE USER TRACKING!!**  
 
 ---
 
 ## **To install Buoy:**  
-- Download the [latest release ZIP](https://github.com/FerretPaws/Buoy/releases), extract the .zip to anywhere you like, then run the .exe inside there. Simple as that! Just remember to keep it inside the folder it extracts from!
+- Download the [latest release ZIP](https://github.com/Nipipo/FVFM-Launcher-Friends-Vs-Friends/releases), extract the .zip to anywhere you like, then run the .exe inside there. Simple as that! Just remember to keep it inside the folder it extracts from!
 - You’ll need to go through a one-time setup process.  
 
 ⚠️ **Do NOT download the source code** unless you know what you’re doing.  
@@ -30,6 +28,12 @@
 # FVFM will cause a false-positive if you use Windows Defender, you'll need to add an exception for FVFM in Defender.
 
 # If the game doesn't run when you chose the modded/vanila run option, run **Steam** through first and then go back to FVFM and relaunch through there. (This is an uncommon issue)
+
+---
+
+## **SPECIAL THANKS:**  
+
+- Special thanks to @FerretPaws and other buoy contributors as this is a direct fork of buoy!
 
 ---
 
