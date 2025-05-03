@@ -3,7 +3,7 @@
 **FVFM** is a **mod manager** designed for **FRIENDS VS FRIENDS** using **BepinEx**!
 
 <div align="center">
-  <img src="https://ibb.co/23b0dT9C" alt="FVFM Icon" />
+  <img src="https://github.com/Nipipo/FVFM-Launcher-Friends-Vs-Friends/blob/main/NipiFvM.png" alt="FVFM Icon" />
 </div>
 
 ---
