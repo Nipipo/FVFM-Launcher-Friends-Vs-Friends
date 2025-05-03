@@ -27,8 +27,7 @@
 
 # FVFM will cause a false-positive if you use Windows Defender, you'll need to add an exception for FVFM in Defender.
 
-# If the game doesn't run when you chose the modded/vanila run option, run **Steam** through first and then go back to FVFM and relaunch through there. (This is an uncommon issue)
-
+# If the game doesn't run when you chose the modded/vanila run option, run **Steam** first and then go back to FVFM and relaunch through there. (This is an uncommon issue)
 ---
 
 ## **SPECIAL THANKS:**  
